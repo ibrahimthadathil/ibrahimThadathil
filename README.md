@@ -59,11 +59,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-## Now I'm 
--  Building **Renewa**, a hospital mangement platform
--  Levling up to be  web developer
-
----
+⭐ **If you like my work, feel free to star my repos!**  
 
  <!-- ### 🏆 My Stats  -->
 <!--  <p align="center">  -->
