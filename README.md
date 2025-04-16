@@ -1,7 +1,7 @@
 
 
 <!-- Header -->
-<h1 align="center">Welcome, to my Domain! I'm Sivaprasad pv</h1>
+<h1 align="center">Welcome, to my Domain! I'm Ibrahim Thadathil </h1>
 <!-- <p align="center">
   <img  src="https://komarev.com/ghpvc/?username=bahirabdulla&label=Profile+Visits&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p> -->
@@ -11,17 +11,25 @@
 ##  About Me
 -  A **MERN Stack developer** continously levling up in  **MongoDB, Express, React, Node.js**.
 -  Summoning my Domain  UIs with **TailwindCSS, Bootstrap and other libraries**.
--  Exploring Uncharted waters of Microservices 
+ 
 -  Seeking to be the best developer in the field
 -  Hardening ablities with attention to detail and problem solving skills
 -  Using positive reinforcement to overcome all the setbacks
 
 ---
 
-##  Inventory Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,docker,kubernetes,aws,c,c++,npm,linux" />
+
+## 🚀 Technologies & Tools  
+
+### 🖥️ Frontend  
+
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,,materialui,bootstrap,sass,html,css,htmx,,tailwind,vite,figma" />
+  </a>
 </p>
+
 
 ---
 
