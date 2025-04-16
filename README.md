@@ -26,13 +26,39 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,,materialui,bootstrap,sass,html,css,htmx,,tailwind,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=react,redux,materialui,bootstrap,html,css,tailwind,vite,figma" />
   </a>
 </p>
 
 
----
+### ⚡ Backend  
 
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman" />
+  </a>
+</p>
+
+### 🛢️ Databases  
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+  </a>
+</p>
+
+## 📫 Connect with Me  
+
+
+<p align="start">
+  <a href="https://www.linkedin.com/in/mhd-abshar-04126a284/](https://www.linkedin.com/in/ibrahim-thadathil-a71a212b1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Abshar777](https://github.com/ibrahimthadathil/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 ## Now I'm 
 -  Building **Renewa**, a hospital mangement platform
 -  Levling up to be  web developer
